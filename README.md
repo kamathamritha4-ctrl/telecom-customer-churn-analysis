@@ -257,17 +257,3 @@ The project investigates questions such as:
 - Jupyter Notebook / Google Colab
 - GitHub
 
----
-
-## 📁 Project Structure
-
-```text
-telecom-customer-churn-analysis/
-│
-├── README.md
-├── notebook/
-│   └── telecom_customer_churn_analysis.ipynb
-├── data/
-│   └── README.md
-├── images/
-└── requirements.txt
